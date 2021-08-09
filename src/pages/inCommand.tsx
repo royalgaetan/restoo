@@ -81,8 +81,6 @@ const inCommand = () => {
               Une nouvelle façon de savourer vos plats. Lorem ipsum dolor, sit
               amet consectetur adipisicing elit. Voluptatibus possimus inventore
               mollitia, placeat veritatis explicabo aut dolor repellat maxime
-              rem id laudantium eaque, modi magni iure maiores provident ducimus
-              exercitationem sed excepturi alias officiis voluptatum rerum
             </p>
           </div>
           <div>
