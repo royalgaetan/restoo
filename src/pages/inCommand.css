@@ -1,0 +1,10 @@
+.margin_item {
+  margin: 40px 0;
+}
+
+.margin_brand {
+  margin: 5px 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Restoo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Restoo",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
