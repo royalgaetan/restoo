@@ -103,7 +103,7 @@ const Tab2: React.FC = () => {
             <ItemPlat
               img={plat10}
               subtext="Trois fois par jour"
-              text="Mijoté de bœuf & sauce aux carottes"
+              text="Mijoté de bœuf et sauce aux carottes"
             />
           </IonList>
         ) : (
