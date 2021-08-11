@@ -60,7 +60,7 @@ const Tab1: React.FC = () => {
 
             <IonCardContent>
               Une nouvelle façon de savourer vos plats.
-              <IonRouterLink color="secondary" href="/inCommand">
+              <IonRouterLink color="primary" href="/inCommand">
                 <b>Disponible ici</b>
               </IonRouterLink>
             </IonCardContent>

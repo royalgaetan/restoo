@@ -111,7 +111,7 @@ const Tab2: React.FC = () => {
             <h2>
               <b>Aucune recherche</b>
             </h2>
-            <p>Lancer une recherche pour voir les résultats</p>
+            <p>Lancer une recherche pour voir les plats disponibles</p>
           </div>
         )}
       </IonContent>
